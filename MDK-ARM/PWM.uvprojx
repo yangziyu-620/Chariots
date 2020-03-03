@@ -389,14 +389,24 @@
               <FilePath>../Src/stm32f4xx_hal_msp.c</FilePath>
             </File>
             <File>
+              <FileName>stm32f4xx_it.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>../Src/stm32f4xx_it.c</FilePath>
+            </File>
+            <File>
               <FileName>main.c</FileName>
               <FileType>1</FileType>
               <FilePath>../Src/main.c</FilePath>
             </File>
             <File>
-              <FileName>stm32f4xx_it.c</FileName>
+              <FileName>chassis.c</FileName>
               <FileType>1</FileType>
-              <FilePath>../Src/stm32f4xx_it.c</FilePath>
+              <FilePath>..\Src\chassis.c</FilePath>
+            </File>
+            <File>
+              <FileName>motor.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\Src\motor.c</FilePath>
             </File>
             <File>
               <FileName>gpio.c</FileName>

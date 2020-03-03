@@ -1,7 +1,9 @@
 --cpu=Cortex-M4.fp
 "pwm\stm32f4xx_hal_msp.o"
-"pwm\main.o"
 "pwm\stm32f4xx_it.o"
+"pwm\main.o"
+"pwm\chassis.o"
+"pwm\motor.o"
 "pwm\gpio.o"
 "pwm\tim.o"
 "pwm\stm32f4xx_hal_tim.o"
